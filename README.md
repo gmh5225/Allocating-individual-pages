@@ -1,4 +1,7 @@
 # Allocating-individual-pages
+
+https://www.unknowncheats.me/forum/anti-cheat-bypass/503918-allocating-individual-pages.html
+
 ```C++
 typedef struct _MMPTE
 {
